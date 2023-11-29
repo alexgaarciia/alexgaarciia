@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my GitHub, where you will have access to most of my past/current projects. I am a junior student in Data Science and Engineering at Universidad Carlos III de Madrid. Regarding my actual situation, I am an exchange student at Concordia University in Montreal, Canada, where I am broading my knowledge in data science taking courses like artificial intelligence. Plus, I am a research assitant involved in the development of deep reinforcement learning algorithms and prompt engineering for LLMs.
 
 <!--
 **alexgaarciia/alexgaarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
