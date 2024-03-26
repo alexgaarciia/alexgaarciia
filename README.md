@@ -46,3 +46,19 @@
 </div>
 
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgaarciia&show_icons=true&locale=en&layout=compact" alt="alexgaarciia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexgaarciia&show_icons=true&locale=en" alt="alexgaarciia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexgaarciia&" alt="alexgaarciia" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
