@@ -10,9 +10,11 @@
 
 <div align="center">
     
-🔭 I’m currently working on **artificial intelligence**
+🔭 I’m currently working as a **researcher at the [Department of Telematic Engineering, UC3M](https://www.uc3m.es/telematic-engineering-department/home)**
 
-🌱 I’m currently learning about **potential applications of AI in healthcare**
+⚡ I'm involved in projects along the lines of the **development of reinforcement learning algorithms for the control of communication networks** or the **evaluation of LLMs for mathematical problem-solving**
+
+🌱 I’m currently self-learning about **potential applications of AI in healthcare**
 
 💬 Ask me about **anything about my projects [here](https://github.com/alexgaarciia/alexgaarciia/issues)**
 
