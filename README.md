@@ -12,7 +12,7 @@
 
 🌱 Trying to learn about **potential applications of AI in healthcare**
 
-💬 **Ask me** about anything about my projects [here](https://github.com/alexgaarciia/alexgaarciia/issues)
+💬 **Ask me** anything about my projects [here](https://github.com/alexgaarciia/alexgaarciia/issues)
 
 
  ## Languages-Frameworks-Tools
