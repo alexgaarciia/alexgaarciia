@@ -6,7 +6,7 @@
 
 ## About Me
 
-🎓 **Studying** a BSc in **Data Science and Engineering** at Universidad Carlos III de Madrid
+🎓 **Studying** a BEng in **Data Science and Engineering** at Universidad Carlos III de Madrid
     
 🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
 
