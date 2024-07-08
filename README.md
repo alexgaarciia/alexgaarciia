@@ -17,7 +17,7 @@
 
  ## Languages-Frameworks-Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,github,latex" />
+    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,github,latex,pytorch" />
 </p>
 
 ## My Contributions
