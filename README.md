@@ -4,23 +4,23 @@
     <a href="https://www.linkedin.com/in/alexgaarciia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
 
-## About Me
+### 😊 About Me
+Hi, I'm Alex! Here's a brief overview of my background and current pursuits:
 
-🎓 **Studying** a BEng in **Data Science and Engineering** at Universidad Carlos III de Madrid
+- 🎓 **Senior** in **Data Science and Engineering** at Universidad Carlos III de Madrid
     
-🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
+- 🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
 
-🌱 Trying to learn about **potential applications of AI in healthcare**
+- 🌱 Trying to learn about **potential applications of AI in healthcare**
 
-💬 **Ask me** anything about my projects [here](https://github.com/alexgaarciia/alexgaarciia/issues)
+I’m always eager to connect with like-minded individuals or discuss innovative ideas!
 
-
- ## Languages-Frameworks-Tools
-<p>
-    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,github,latex,pytorch" />
+ ### 🛠️ Languages-Frameworks-Tools
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,git,latex,pytorch" />
 </p>
 
-## My Contributions
+### 💻 My Contributions
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alexgaarciia/alexgaarciia/output/github-contribution-grid-snake.svg" />
 </div>
