@@ -22,6 +22,13 @@ I’m always eager to connect with like-minded individuals or discuss innovative
     <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,git,latex,pytorch" />
 </p>
 
+ ### ✍ My Publications (Proud Moment Alert!)
+| **Article** | **Description** | **Link** |
+|------------|-------------|-------------|
+| Reinforcement-Learning based routing for packet-optical networks with hybrid telemetry | Methodology and open-source implementation of Reinforcement Learning algorithms for finding optimal routes in a packet-optical network scenario | https://arxiv.org/abs/2406.12602
+| A Comprehensive Guide to Combining R and Python code for Data Science, Machine Learning and Reinforcement Learning | This paper explores using R's reticulate package to call Python from R, providing practical examples and highlighting scenarios where this integration enhances productivity and analytical capabilities. | https://arxiv.org/abs/2407.14695
+| Efficient Network Delay Optimization Via Multi-Armed Bandit: A Reinforcement Learning Approach | This paper presents a reinforcement learning (RL) approach to optimize network delays using the Multi-Armed Bandit (MAB) model. | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4954982
+
 ### 💻 My Contributions
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alexgaarciia/alexgaarciia/output/github-contribution-grid-snake.svg" />
