@@ -13,7 +13,6 @@ Hi, I'm Alex! Here's a brief overview of my background:
 
 - 🧑‍💼 **IT&D Business Partner Intern** at Repsol.
 
-I’m always eager to connect with like-minded individuals or discuss innovative ideas!
 
  ### 🛠️ Languages-Frameworks-Tools
 <p align="center">
