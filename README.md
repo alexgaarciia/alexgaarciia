@@ -5,15 +5,13 @@
 </div>
 
 ### 😊 About Me
-Hi, I'm Alex! Here's a brief overview of my background and current pursuits:
+Hi, I'm Alex! Here's a brief overview of my background:
 
 - 🎓 **Senior** in **Data Science and Engineering** at Universidad Carlos III de Madrid
     
 - 🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
 
 - 🧑‍💼 **IT&D Business Partner Intern** at Repsol.
-
-- 🌱 Trying to learn about **potential applications of AI in healthcare**
 
 I’m always eager to connect with like-minded individuals or discuss innovative ideas!
 
