@@ -8,10 +8,12 @@
 Hi, I'm Alex! Here's a brief overview of my background:
 
 - 🎓 **Senior** in **Data Science and Engineering** at Universidad Carlos III de Madrid
+
+- 🌎 **Exchange year** in Concorida University, Montreal, Canada
     
 - 🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
 
-- 🧑‍💼 **IT&D Business Partner Intern** at Repsol.
+- 🧑‍💼 **Technology Consulting Intern** at Repsol.
 
 
  ### 🛠️ Languages-Frameworks-Tools
