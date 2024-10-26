@@ -11,7 +11,7 @@ Hi, I'm Alex! Here's a brief overview of my background:
     
 - 🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
 
-- 🧑‍💼 **IT&D Business Partner Intern** at Repsol.
+- 🧑‍💼 **IT&D Business Partner Intern** at [Repsol](https://www.repsol.com/es/index.cshtml).
 
 
  ### 🛠️ Languages-Frameworks-Tools
