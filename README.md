@@ -7,7 +7,7 @@
 ### 😊 About Me
 Hi, I'm Alex! Here's a brief overview of my background:
 
-- 🎓 **Senior** in **Data Science and Engineering** at Universidad Carlos III de Madrid
+- 🎓 **Senior student** in **Data Science and Engineering** at Universidad Carlos III de Madrid
     
 - 🧑🏻‍💻 **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
 
