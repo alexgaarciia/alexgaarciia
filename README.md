@@ -18,9 +18,3 @@ Hi, I'm Alex! Here's a brief overview of my background:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,git,latex,pytorch" />
 </p>
-
-
-### 💻 My Contributions
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alexgaarciia/alexgaarciia/output/github-contribution-grid-snake.svg" />
-</div>
