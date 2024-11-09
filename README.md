@@ -7,11 +7,9 @@
 ### 😊 About Me
 Hi, I'm Alex! Here's a brief overview of my background:
 
-- **Senior student** in **Data Science and Engineering** at Universidad Carlos III de Madrid
-    
-- **Researcher** at the [Telematic Engineering Department, UC3M](https://www.uc3m.es/telematic-engineering-department/home)
-
-- **IT&D Business Partner Intern** at [Repsol](https://www.repsol.com/en/index.cshtml).
+- **Senior student** in **Data Science and Engineering** at Universidad Carlos III de Madrid    
+- **Researcher** at the Telematic Engineering Department, UC3M.
+- **IT&Digital Business Partner Intern** at Repsol learning about data-driven strategies to optimize business processes.
 
 
  ### 🛠️ Languages-Frameworks-Tools
