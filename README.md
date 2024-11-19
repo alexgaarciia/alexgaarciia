@@ -14,5 +14,5 @@ Hi, I'm Alex! Here's a brief overview of my background:
 
  ### 🛠️ Languages-Frameworks-Tools
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,git,latex,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,mysql,mongodb,git,latex" />
 </p>
