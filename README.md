@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Code Chaos!<br>⚠️Enter at Your Own Risk⚠️<br/> </h1> 
+<h1 align="center">Welcome to My Code Chaos!</h1> 
 <div align="center"> 
     <a href="mailto:al.garcia636@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
     <a href="https://www.linkedin.com/in/alexgaarciia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
