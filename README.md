@@ -7,7 +7,7 @@
 ### 😊 About Me
 Hi, I'm Alex! Here's a brief overview of my background:
 
-- Final-year student in Data Science and Engineering at Universidad Carlos III de Madrid    
+- Final-year student in Data Science and Engineering at Universidad Carlos III de Madrid.
 - Researcher at the Telematic Engineering Department, UC3M.
 - IT & Digital Business Partner Intern at Repsol learning about data-driven strategies to optimize business processes.
 
