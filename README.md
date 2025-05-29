@@ -8,7 +8,7 @@
 Hi, I'm Alex! Here's a brief overview of my background:
 
 - Final-year student in Data Science and Engineering at Universidad Carlos III de Madrid.
-- Researcher at the Telematic Engineering Department, UC3M.
+- AI Research Engineer at the Telematic Engineering Department, UC3M.
 - LLM Engineer Intern at Repsol.
 
 
