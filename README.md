@@ -5,13 +5,13 @@
 </div>
 
 ### 😊 About Me
-Hi, I'm Alex! Here's a brief overview of my background:
+Hey! I’m Alex, a data scientist and engineer turned ML-for-Health enthusiast.
 
-- MSc in Machine Learning for Health @UC3M
-- BEng in Data Science and Engineering @UC3M
-- Ex-Research Assistant @Telematic Engineering Department, UC3M
-- Ex-LLM Engineer Intern @Repsol
+I like building things that bridge gaps: between research and practice, theory and messy data, or simply an idea and something usable. At heart, I’m driven by curiosity, I keep asking “why” until I reach the bottom, and I enjoy making what I learn public so others can build on it.
 
+- 🎓 Currently: MSc in Machine Learning for Health @ UC3M
+- 💡 Previously: Research Assistant @UC3M Telematic Engineering Department & LLM Engineer Intern @Repsol
+- 🚀 Interests: AI for medicine and making research useful beyond papers
 
  ### 🛠️ Languages-Frameworks-Tools
 <p align="center">
