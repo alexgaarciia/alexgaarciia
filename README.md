@@ -15,5 +15,5 @@ I like building things that bridge gaps: between research and practice, theory a
 
  ### 🛠️ Languages-Frameworks-Tools
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,expressjs,postgres,mongodb,redis,git,docker,kubernetes,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=python,r,html,css,postgres,mongodb,redis,git,docker,kubernetes,aws,azure" />
 </p>
