@@ -9,8 +9,8 @@ Hey! I’m Alex, a data scientist and engineer turned ML-for-Health enthusiast.
 
 I like building things that bridge gaps: between research and practice, theory and messy data, or simply an idea and something usable. At heart, I’m driven by curiosity, I keep asking “why” until I reach the bottom, and I enjoy making what I learn public so others can build on it.
 
-- 🎓 Currently: Research Engineer @ML4DS Research Group, MSc in Machine Learning for Health @UC3M
-- 💡 Previously: Research Assistant @ADSCOM Research Group, LLM Engineer Intern @Repsol
+- 🎓 Currently: Research Engineer @Gregorio Marañón Health Research Institute, MSc in Machine Learning for Health @UC3M
+- 💡 Previously: Research Engineer @ML4DS Research Group, Research Assistant @ADSCOM Research Group, LLM Engineer Intern @Repsol
 - 🚀 Interests: AI for medicine and making research useful beyond papers
 
 <!--
